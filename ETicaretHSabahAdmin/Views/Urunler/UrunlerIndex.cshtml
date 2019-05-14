@@ -1,0 +1,110 @@
+﻿@using ETicaret.BLL;
+
+
+@{
+    ViewBag.Title = "UrunlerIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+    UrunlerManager urunman = new UrunlerManager();
+
+}
+
+<div class="content-wrapper">
+    <div class="col-md-12 col-lg-8 offset-lg-2 ">
+        <div class="card card-warning">
+            <div class="card-header">
+                <h3 class="card-title">ÜRÜNLER EKLEME</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <form role="form" action="/Urunler/UrunlerIndex" method="post" enctype="multipart/form-data">
+                    <!-- text input -->
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">KATEGORİ ADI</label>
+                        <!-- select -->
+                        <select class="form-control" name="KategoriId">
+                            <option>Seçiniz</option>
+                            @foreach (var item in ViewBag.Kategoriler)
+                            {
+                                <option value="@item.KategorilerID">@item.KategoriAdi</option>
+                            }
+
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">MARKA ADI</label>
+                        <!-- select -->
+                        <select class="form-control" name="markaId">
+                            <option>Seçiniz</option>
+                            @foreach (var item in ViewBag.Markalar)
+                            {
+                                <option value="@item.MarkalarID">@item.MarkaAdi</option>
+                            }
+
+
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>ÜRÜN ADI</label>
+                        <input type="text" class="form-control" placeholder="Ürün Adını girin..." name="urunadi">
+                    </div>
+
+                    <div class="form-group">
+                        <label>ÜRÜN FİYATI</label>
+                        <input type="text" class="form-control" placeholder="Ürün fiyatını girin..." name="urunfiyat">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">ÜRÜN ÖLÇÜ TANIMI</label>
+                        <select class="form-control" name="urunolcutanimi">
+                            <option>Seçiniz</option>
+                            @foreach (var item in ViewBag.Olculer)
+                            {
+                                <option value="@item.OlcuBirimleriID">@item.OlcuBirimiAdi</option>
+                            }
+
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>ÜRÜN STOK</label>
+                        <input type="text" class="form-control" placeholder="Ürün stok girin..." name="urunstok">
+                    </div>
+
+                    <!-- textarea -->
+                    <div class="form-group">
+                        <label>ÜRÜN AÇIKLAMA</label>
+                        <textarea class="form-control" rows="3" placeholder="Ürün açıklamasını girin ..." name="urunaciklama"></textarea>
+                    </div>
+                    <!--<div class="form-group">
+                        <label for="exampleInputFile">ÜRÜN RESİM</label>
+                        <div class="input-group">
+                            <div class="custom-file">
+                                <input class="urunresim" type="file" class"custom-file-input" id="exampleInputFile" />
+                                <label class="custom-file-label" for="exampleInputFile">Resim Seçiniz</label>
+                            </div>
+                            <div class="input-group-append">
+                                <span class="input-group-text" id="">Yükle</span>
+
+                            </div>
+
+                        </div>
+
+                    </div>-->
+
+                    <div class="card-footer">
+                        <button type="submit" class="btn btn-primary">ÜRÜN EKLE</button>
+                    </div>
+                </form>
+            </div>
+            <!-- /.card-body -->
+
+        </div>
+    </div>
+
+
+    <!--***********************************************-->
+    <div class="col-md-12 col-lg-8 offset-lg-2">
+        @Html.ActionLink("Ürün Listesine Dön", "UrunListesiView")
+    </div>
+</div>
+

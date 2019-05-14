@@ -1,0 +1,89 @@
+﻿@model ETicaret.DLL.UrunOzellikleri
+
+@{
+    ViewBag.Title = "UrunOzellikGuncelleIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div class="content-wrapper">
+
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>UrunOzellikleri</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.UrunOzellikleriID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.UrunID, "UrunID", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.DropDownList("UrunID", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.UrunID, "", new { @class = "text-danger" })*@
+                    <select class="form-control" name="UrunID">
+                    <option>Seçiniz</option>
+                    @foreach (var item in ViewBag.UrunGetir)
+                    {
+                        <option value="@item.UrunlerID">@item.UrunAdi</option>
+                    }
+
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.OzellikTanimi, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.OzellikTanimi, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.OzellikTanimi, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.OlcuBirimi, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @*@Html.EditorFor(model => model.OlcuBirimi, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.OlcuBirimi, "", new { @class = "text-danger" })*@
+                     <select class="form-control" name="OlcuBirimi">
+                    @foreach (var item in ViewBag.OlcuBirimGetir)
+                    {
+                        <option value="@item.OlcuBirimleriID">@item.OlcuBirimiAdi</option>
+                    }
+
+                </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.BirimStok, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.BirimStok, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.BirimStok, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.KalanStok, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.KalanStok, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.KalanStok, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Guncelle" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.Raw(ViewBag.mesaj)
+        @Html.ActionLink("Urun özelliklerine dön", "UrunOzellikleriIndex")
+    </div>
+
+</div>

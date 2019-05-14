@@ -1,0 +1,65 @@
+﻿@using ETicaret.BLL
+
+@{
+    ViewBag.Title = "indirimTurleriIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+    indirimTurleriManager indturman = new indirimTurleriManager();
+}
+
+<div class="content-wrapper">
+    <div class="card card-warning">
+        <div class="card-header">
+            <h3 class="card-title">General Elements</h3>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <form role="form" action="/indirimTurleri/indirimTurleriIndex" method="post" enctype="multipart/form-data">
+                <!-- text input -->
+                <div class="form-group">
+                    <label>İNDİRİM TURU ADI</label>
+                    <input name="indirimturuadi" type="text" class="form-control" placeholder="İndirim Türü Giriniz ...">
+                </div>
+                <div class="form-group">
+                    <label>AÇIKLAMA</label>
+                    <input name="aciklama" type="text" class="form-control" placeholder="Açıklama Giriniz ...">
+                </div>
+                <div class="label" style="width:40%; margin-left:30%;">
+                    <button class="btn btn-block btn-outline-success btn-flat">Kaydet</button>
+                </div>
+            </form>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Condensed Full Width Table</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body p-0">
+                <table class="table table-condensed">
+                    <tr>
+                        <th style="width: 10px">ID</th>
+                        <th>İndirim Türü Adı</th>
+                        <th>Açiklama</th>
+                        <th>Güncelle</th>
+                        <th>Sil</th>
+                    </tr>
+                    @foreach (var item in indturman.indirimTuruGetir())
+                    {
+                        <tr>
+                            <td>@item.indirimTurleriID</td>
+                            <td>@item.indirimTuruAdi</td>
+                            <td>@item.Aciklama</td>
+                            @*<td><button class="btn btn-warning">Güncelle</button></td>*@
+                            <td>@Html.ActionLink("Güncelle", "indirimTurleriGuncelle", new { ID = item.indirimTurleriID })</td>
+                            <td><button class="btn btn-danger">Sil</button></td>
+                        </tr>
+
+                    }
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+
+    </div>
+
+</div>
+

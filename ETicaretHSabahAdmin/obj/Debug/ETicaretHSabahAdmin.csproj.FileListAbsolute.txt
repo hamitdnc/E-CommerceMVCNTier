@@ -1,0 +1,1027 @@
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaretHSabahAdmin.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\csi.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.AppContext.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Console.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\vbc.rsp
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Webpages.Razor.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Helpers.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\System.Web.Mvc.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaretHSabahAdmin\obj\Debug\ETicaretHSabahAdmin.pdb

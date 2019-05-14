@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ETicaret.DLL.Siparisler>
+
+@{
+    ViewBag.Title = "SiparisTakibiIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>SiparisTakibiIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ToplamFiyat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SiparisAdet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kargolar.KargolarID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Personeller.TC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Uyeler.UyeAdi)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tarihi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToplamFiyat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SiparisAdet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kargolar.KargolarID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Personeller.TC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Uyeler.UyeAdi)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SiparislerID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SiparislerID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SiparislerID })
+        </td>
+    </tr>
+}
+
+</table>

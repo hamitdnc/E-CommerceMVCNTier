@@ -1,0 +1,128 @@
+﻿@using ETicaret.BLL;
+
+@{
+    ViewBag.Title = "KargoFirmalariIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+    KargoFirmalariManager karfirman = new KargoFirmalariManager();
+}
+
+<div class="content-wrapper">
+    <div class="col-md-12 col-lg-8 offset-lg-2 ">
+        <div class="card card-warning">
+            <div class="card-header">
+                <h3 class="card-title">KARGO FİRMA EKLEME</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <form role="form" action="/KargoFirmalari/KargoFirmalariIndex" method="post" enctype="multipart/form-data">
+                    <!-- text input -->
+
+                    <div class="form-group">
+                        <label>KARGO ADI</label>
+                        <input type="text" class="form-control" placeholder="Adını girin..." name="kargoadi">
+                    </div>
+
+                    <!-- Date dd/mm/yyyy -->
+                    <div class="form-group">
+                        <label>ANLAŞMA TARİHİ</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                            </div>
+                            <input type="text" name="anlasma_bas" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+
+                    <!-- Date dd/mm/yyyy -->
+                    <div class="form-group">
+                        <label>ANLAŞMA BİTİŞ TARİHİ</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                            </div>
+                            <input type="text" name="anlasma_bit" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+
+                    <!-- textarea -->
+                    <div class="form-group">
+                        <label>AÇIKLAMA</label>
+                        <textarea class="form-control" rows="3" placeholder="aciklama girin ..." name="aciklama"></textarea>
+                    </div>
+
+                    <div class="card-footer">
+                        <button type="submit" class="btn btn-primary">KARGOFİRMA EKLE</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!--******************-->
+    <section class="content">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Kategori Listesi</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <table id="example2" class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Kargo Adı</th>
+                                    <th>Anlaşma Tarihi</th>
+                                    <th>Bitiş Tarihi</th>
+                                    <th>Aciklama</th>
+                                    <th>Güncelle</th>
+                                    <th>Sil</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in karfirman.KargoFirmaGetir())
+                                {
+                                    <tr>
+                                        <td>@item.KargoFirmalariID</td>
+                                        <td>@item.KargoAdi</td>
+                                        <td>@item.AnlasmaTarihi</td>
+                                        <td>@item.AnlasmaBitisTarihi</td>
+                                        <td>@item.Aciklama</td>
+                                        <td>
+                                            @*<input class="btn btn-warning" type="submit" name="name" value="GÜNCELLE" />*@
+                                            @Html.ActionLink("Güncelle", "KargoFirmalariGuncelle", new { kargofirma_Id = item.KargoFirmalariID })
+
+                                        </td>
+                                        <td>
+                                            <input class="btn btn-danger" type="submit" name="name" value="SİL" />
+
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <th>Rendering engine</th>
+                                    <th>Browser</th>
+                                    <th>Platform(s)</th>
+                                    <th>Engine version</th>
+                                    <th>CSS grade</th>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </section>
+</div>
+
+
+

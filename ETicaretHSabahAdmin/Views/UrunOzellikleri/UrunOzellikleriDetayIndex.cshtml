@@ -1,0 +1,64 @@
+﻿@model ETicaret.DLL.UrunOzellikleri
+
+@{
+    ViewBag.Title = "UrunOzellikleriDetayIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <div class="col-md-8 offset-2">
+        <div>
+            <h4><span style="color:red">@Model.UrunID</span></h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.OzellikTanimi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.OzellikTanimi)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.OlcuBirimi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.OlcuBirimi)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.BirimStok)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.BirimStok)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.KalanStok)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.KalanStok)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Urunler.UrunAdi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Urunler.UrunAdi)
+                </dd>
+
+            </dl>
+        </div>
+        <p>
+            @Html.ActionLink("Ürün Özellik için resim ekle", "#", new { id = Model.UrunOzellikleriID }, new { @class = "btn btn-success" })<br />
+            @Html.ActionLink("Ürün Özellik listesine dön", "UrunOzellikleriIndex")
+        </p>
+
+    </div>
+
+</div>

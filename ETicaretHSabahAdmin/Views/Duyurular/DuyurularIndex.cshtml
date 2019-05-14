@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "DuyurularIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="content-wrapper">
+    <div class="col-md-12 col-lg-8 offset-lg-2 ">
+        <div class="card card-warning">
+            <div class="card-header">
+                <h3 class="card-title">DUYURU EKLEME</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <form role="form" action="/Duyurular/DuyurularIndex" method="post" enctype="multipart/form-data">
+                    <!-- text input -->
+                    <!-- Date dd/mm/yyyy -->
+                    <div class="form-group">
+                        <label>BAŞLANGIÇ TARİHİ</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                            </div>
+                            <input type="text" name="bas_tar" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+
+                    <!-- Date dd/mm/yyyy -->
+                    <div class="form-group">
+                        <label>BİTİŞ TARİHİ</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                            </div>
+                            <input type="text" name="bit_tar" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+
+
+                    <div class="form-group">
+                        <label>DUYURU BAŞLIĞI</label>
+                        <input type="text" class="form-control" placeholder="" name="duyurubasligi">
+                    </div>
+
+                    <!-- textarea -->
+                    <div class="form-group">
+                        <label>DUYURU</label>
+                        <textarea class="form-control" rows="3" placeholder="Duyuru girin ..." name="duyuru"></textarea>
+                    </div>
+
+                    <!-- textarea -->
+                    <div class="form-group">
+                        <label>AÇIKLAMA</label>
+                        <textarea class="form-control" rows="3" placeholder="Açiklama girin ..." name="aciklama"></textarea>
+                    </div>
+
+
+                    <div class="card-footer">
+                        <button type="submit" class="btn btn-primary">DUYURU EKLE</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

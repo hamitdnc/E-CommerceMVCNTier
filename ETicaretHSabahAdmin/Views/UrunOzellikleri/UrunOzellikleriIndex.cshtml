@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ETicaret.DLL.UrunOzellikleri>
+
+@{
+    ViewBag.Title = "UrunOzellikleriIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <h2>UrunÖzellikleriListesi</h2>
+    <p>
+        @Html.ActionLink("Özellik Ekle", "UrunOzellikEkleIndex", null, new { @class = "btn btn-info" })
+    </p>
+    <table class="table">
+        <tr style="background-color:dimgray" class="table table-bordered">
+
+            <th>
+                @Html.DisplayNameFor(model => model.Urunler.UrunAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OzellikTanimi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OlcuBirimi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BirimStok)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KalanStok)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Urunler.UrunAdi)
+            </td>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.OzellikTanimi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OlcuBirimi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirimStok)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KalanStok)
+            </td>
+         
+            <td>
+                @Html.ActionLink("Güncelle", "UrunOzellikGuncelleIndex", new { ID = item.UrunOzellikleriID }) |
+                @Html.ActionLink("Detay", "UrunOzellikleriDetayIndex", new { UrunOzellikDetay_ID = item.UrunOzellikleriID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UrunOzellikleriID })
+            </td>
+        </tr>
+        }
+
+    </table>
+
+
+</div>

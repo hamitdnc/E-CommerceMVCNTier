@@ -1,0 +1,79 @@
+﻿@using ETicaret.BLL;
+
+@{
+    ViewBag.Title = "UrunOzellikEkleIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+    .ozellik{
+        width:25%;
+    }
+    .ozellikbutton{
+        width:100%;
+    }
+</style>
+
+<form action="/UrunOzellikleri/UrunOzellikEkleIndex" method="post">
+    <div class="content-wrapper">
+
+        <div class="col-md-10 offset-1">
+
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbutton" type="button">Ürün ID</button>
+                </span>
+                @*<input type="text" class="form-control" placeholder="Ürün ID alanı...">*@
+                <select class="form-control" name="UrunID">
+                    <option>Seçiniz</option>
+                    @foreach (var item in ViewBag.Urunler)
+                    {
+                        <option value="@item.UrunlerID">@item.UrunAdi</option>
+                    }
+
+                </select>
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbutton" type="button">Özellik Tanimi</button>
+                </span>
+                <input type="text" name="OzellikTanimi" class="form-control" placeholder="Özellik Tanimi alanı...">
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbutton" type="button">Ölçü Birimi Adı</button>
+                </span>
+                <select class="form-control" name="OlcuBirimi">
+                    @foreach (var item in ViewBag.OlcuBirimleri)
+                    {
+                        <option value="@item.OlcuBirimleriID">@item.OlcuBirimiAdi</option>
+                    }
+
+                </select>
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbutton" type="button">Birim Stok</button>
+                </span>
+                <input type="text" name="BirimStok" class="form-control" placeholder="Birim Stok alanı...">
+            </div><!-- /input-group -->
+            <br />
+            <div class="input-group">
+                <span class="input-group-btn ozellik">
+                    <button class="btn btn-default ozellikbutton" type="button">Kalan Stok</button>
+                </span>
+                <input type="text" name="KalanStok" class="form-control" placeholder="Kalan Stok alanı...">
+            </div><!-- /input-group -->
+            <!--*****************************************************************************-->
+            <br />
+
+            <button class="btn btn-success" type="submit">Ürün Özellik Kaydet</button>
+            <br />
+            @Html.Raw(TempData["mesaj"])
+            @Html.ActionLink("Ürün Özellikleri Listesine Dön", "UrunOzellikleriIndex")
+        </div>
+    </div>
+</form>

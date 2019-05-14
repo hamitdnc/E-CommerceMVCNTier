@@ -1,0 +1,25 @@
+﻿@using ETicaret.BLL
+
+@{
+    MarkalManager marka = new MarkalManager();
+}
+
+<div class="community-poll">
+    <h4>Markalar</h4>
+    <div class="swit form">
+
+        @foreach (var item in marka.MarkaListele())
+        {
+            <div class="check_box">
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" name="radio" />
+                        <i></i>@item.MarkaAdi
+                    </label>
+                </div>
+            </div>
+        }
+    </div>
+
+
+</div>

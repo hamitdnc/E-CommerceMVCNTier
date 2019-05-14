@@ -1,0 +1,195 @@
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\E-Ticaret\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\E-TicaretV1\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+D:\Calısmalar\E-TicaretV2\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\ETicaret22.03.2019\E-TicaretV4\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV5\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV7\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV10\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\sly\Desktop\Kurs Calısmalar\ETicaret\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV11\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV13\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.BLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.pdb
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\ETicaret.DLL.dll.config
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csprojAssemblyReference.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.csproj.CopyComplete
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.dll
+C:\Users\ovunc.abdik\Desktop\E-TicaretV15\ETicaret\ETicaret.BLL\obj\Debug\ETicaret.BLL.pdb

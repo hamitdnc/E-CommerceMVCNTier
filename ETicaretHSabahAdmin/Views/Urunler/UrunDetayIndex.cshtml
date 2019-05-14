@@ -1,0 +1,192 @@
+﻿@model ETicaret.DLL.Urunler
+
+@{
+    ViewBag.Title = "UrunDetayIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>UrunDetayIndex</h2>
+
+<div class="content-wrapper">
+    <div class="col-md-8 offset-2">
+        <div>
+            <h4><span style="color:red">@Model.UrunAdi</span></h4>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunAdi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UrunAdi)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunFiyat)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UrunFiyat)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunOlcuTanimi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UrunOlcuTanimi)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunStok)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UrunStok)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UrunAciklama)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UrunAciklama)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Kategoriler.KategoriAdi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Kategoriler.KategoriAdi)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Markalar.MarkaAdi)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Markalar.MarkaAdi)
+                </dd>
+
+                <dt>
+                    @*@Html.DisplayNameFor(model => model.Personeller.TC)*@
+                    <label>Personel</label>
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Personeller.TC)
+                </dd>
+
+            </dl>
+        </div>
+
+        <div class="col-md-12">
+
+            <div class="card">
+                <div class="card-header">
+                    <h3> Ürün Resimleri</h3>
+                </div>
+                <!--card body-->
+                <div class="card-body" p-0 UrunResimleri">
+                    @foreach (ETicaret.DLL.UrunResimleri item in Model.UrunResimleri)
+                    {
+                        <div class="UrunResim">
+                            <img src="~/EklenenResimler/@item.Resim" alt="Alternate Text" />
+
+                            <div class="btn btn-danger UrunSilBtn" urunresimid="@item.UrunResimleriID">Sil</div>
+                        </div>
+
+                    }
+                </div>
+                <!--card body end-->
+
+            </div>
+
+            <!--UrunController altında UrunFileUpload metodu için bir form tanımlıyoruyz. bu kısım resim eklemek için gereklidir. bir post işlemi olcağından form tanımlamasına ihtiyacımız var-->
+            <form action='@Url.Action("UrunFileUpload","Urunler")' class="dropzone" id="dropForm">
+                <input type="hidden" name="id" value="@Model.UrunlerID" />
+
+
+            </form>
+        </div>
+        <p>
+            @*@Html.ActionLink("Ürün için resim ekle", "#", new { id = Model.UrunlerID }, new { @class="btn btn-success"})*@
+            @Html.ActionLink("Ürün Listesine Dön", "UrunListesiView", null, new { @class = "btn btn-warning" })
+        </p>
+
+    </div>
+</div>
+
+@section css{
+<link href="~/Scripts/dropzone/dropzone.css" rel="stylesheet" />
+    <style>
+        .UrunResim div {
+            bottom: 0.1px;
+            right: 0.1px;
+            position: absolute;/*Sil buttonun resim içinde konumuı  ayarladık*/
+        }
+        .UrunResim{
+            width:150px;
+            height:120px;
+            float:left;
+            position:relative;/* iç içe gösterir. Sil butonunu her resmin üzerinde göstermesini sağladık*/
+
+        }
+        .UrunResim img {
+            width:100%;
+            height:100%;
+
+        }
+    </style>
+}
+
+@section scripts{
+    <script src="~/Scripts/dropzone/dropzone.min.js"></script>
+
+    <script>
+
+        
+        Dropzone.autoDiscover = false;
+        $(function () {
+        var mydropZone = new Dropzone("#dropForm");
+            mydropZone.on("complete", function (file) {
+                //DropZone işlemin gerçekleşeceği form üzerinde parametre ile file için tanımlanan değişkene isim verecektir.
+                console.log(file);
+
+                var responsetextName = JSON.parse(file.xhr.responseText);
+                if (responsetextName.Durum) {
+                    var ekle = '<div class="UrunResim">' +
+                        '<img src="~/EklenenResimler/' + responsetextName.filename1 + '"/>+' + '<div class="btn btn-danger UrunSilBtn" UrunResimID="' + responsetextName.fileId1 + '">Sil</div>"' + '</div>';//bu tag 'ler arasında her yeni tag'e geçildiğinde + ile birbirinde ayırıyoruz. Değişken alan kısımları gelen filename yapısına göre dolduruyoruz
+                    $('.UrunResimleri').append(ekle);// Resim ekleme işlemini verilen div class ismine göre  yaptık
+                }
+                else {
+
+                }
+            });
+        })
+        
+
+        $('.UrunResimleri').on('click','.UrunSilBtn', function() {
+            var btn = $(this);
+            var resimID = btn.attr("urunresimid");/*??????????????????*/
+                        $.ajax({
+                            method: "GET",
+                            url: '@Url.Action("UrunResimSil", "Urunler")' + "?UrunResimID=" + resimID/*?*/
+
+                        }).done(function (result) {
+
+                                                    if (result.Durum) {
+                                                        btn.parent().remove();/*btn hangi tag'üzerinde ise(.UrunResim) o resmi sil*/
+                                                        $("#dropForm")[0].dropzone.removeAllFiles();/*??????????*//*""*/
+                                                    }
+                                                    else{
+                                                        alert("Resim silinirken hata oluştu");
+                                                    }
+                                                });
+
+        });
+
+    </script>
+
+}

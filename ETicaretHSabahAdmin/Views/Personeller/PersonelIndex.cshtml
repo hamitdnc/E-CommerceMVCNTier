@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewBag.Title = "PersonelIndex";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+   
+}
+
+<div class="content-wrapper">
+ <div class="col-md-12 col-lg-8 offset-lg-2 ">
+    <div class="card card-warning">
+        <div class="card-header">
+            <h3 class="card-title">PERSONEL EKLEME</h3>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <form role="form" action="/Personeller/PersonelIndex" method="post" enctype="multipart/form-data">
+                <!-- text input -->
+
+                <div class="form-group">
+                    <label>TC</label>
+                    <input type="text" class="form-control" placeholder="TC girin..." name="tc">
+                </div>
+
+                <div class="form-group">
+                    <label>ADI</label>
+                    <input type="text" class="form-control" placeholder="Adını girin..." name="ad">
+                </div>
+
+                <div class="form-group">
+                    <label>SOYADI</label>
+                    <input type="text" class="form-control" placeholder="Soyadını girin.." name="soyad">
+                </div>
+                <!--Telefon ve dogum tarihi ekle-->
+                <div class="form-group">
+                    <label>TELEFON</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fa fa-phone"></i></span>
+                        </div>
+                        <input type="text" name="tel" class="form-control" data-inputmask='"mask": "(999) 999-9999"' data-mask>
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+                <!-- Date dd/mm/yyyy -->
+                <div class="form-group">
+                    <label>DOĞUM TARİHİ</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                        </div>
+                        <input type="text" name="dogumTarihi" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+                <label>EMAİL</label>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fa fa-envelope"></i></span>
+                    </div>
+                    <input type="email" class="form-control" placeholder="Email girin.." name="email">
+                </div>
+
+                <div class="form-group">
+                    <label>CİNSİYET</label>
+                    <input type="text" class="form-control" placeholder="Cinsiyet girin..." name="cinsiyet">
+                </div>
+
+                <div class="form-group">
+                    <label>MEDENİ HALİ</label>
+                    <input type="text" class="form-control" placeholder="" name="medenihali">
+                </div>
+
+                <div class="form-group">
+                    <label>UNVAN</label>
+                    <input type="text" class="form-control" placeholder="" name="unvan">
+                </div>
+
+                <!---kayıt tarihi ekle-->
+                <div class="form-group">
+                    <label>KAYIT TARİHİ</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+                        </div>
+                        <input type="text" name="kayitTarih" class="form-control" data-inputmask="'alias': 'dd/mm/yyyy'" data-mask>
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- textarea -->
+                <div class="form-group">
+                    <label>ADRES</label>
+                    <textarea class="form-control" rows="3" placeholder="Adres girin ..." name="adres"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>KULLANICI ADI</label>
+                    <input type="text" class="form-control" placeholder="Kullanıcı adı girin..." name="kul_adi">
+                </div>
+                <div class="form-group">
+                    <label>KULLANICI ŞİFRESİ</label>
+                    <input type="text" class="form-control" placeholder="Kullanıcı şifre girin..." name="kul_sif">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword1">ROL ADI</label>
+                    <!-- select -->
+                    <select class="form-control" name="RolID">
+                        <option>Seçiniz</option>
+                        @foreach (var item in ViewBag.Rol)
+                        {
+                            <option value="@item.PersonelRolleriID">@item.RolAdi</option>
+                        }
+
+                    </select>
+                </div>
+
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary">PERSONEL EKLE</button>
+                </div>
+
+                @Html.ActionLink("Personeller Listesine Dön", "PersonelListeIndex")
+            </form>
+        </div>
+    </div>
+</div>
+</div>
+

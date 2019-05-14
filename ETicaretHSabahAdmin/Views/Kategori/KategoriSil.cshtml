@@ -1,0 +1,55 @@
+﻿@model ETicaret.DLL.Kategoriler
+
+@{
+    ViewBag.Title = "KategoriSil";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="content-wrapper">
+        <div class="col-md-8 offset-2">
+            <h3>Bu ürünü Silmek istediğinizden eminmisiniz?</h3>
+            <div>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.KategoriAdi)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.KategoriAdi)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ParentKategoriID)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ParentKategoriID)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Personeller.TC)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Personeller.TC)
+                    </dd>
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Sil" class="btn btn-danger" /> |
+                        @Html.ActionLink("Kategori Listesine dön", "KategoriIndex")
+                    </div>
+                }
+                @Html.Raw(ViewBag.mesajSil)
+            </div>
+        </div>
+    </div>
+
+</div>

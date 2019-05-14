@@ -1,0 +1,125 @@
+﻿@model ETicaret.BLL.SepetManager
+@using ETicaret.BLL
+
+@{
+    ViewBag.Title = "SepetIndex";
+    Layout = "~/Views/Shared/LayoutPage.cshtml";
+
+}
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h3 class="jumbotron-heading">ALIŞVERİŞ SEPETİNİZ</h3>
+    </div>
+</section>
+<div class="container mb-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col"> </th>
+                            <th scope="col">Ürün</th>
+                            <th scope="col">Miktar</th>
+                            <th scope="col">Fiyat</th>
+                            <th scope="col">Toplam</th>
+                            <th> </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.SepetSinifi)
+                        {
+                            <tr>
+                                <td><img src="https://dummyimage.com/50x50/55595c/fff" /> </td>
+                                <td>@item.SepetttekiUrun.UrunAdi</td>
+                                <td>
+                                    <div class="col-md-3">
+                                        @using (Html.BeginForm("SepeteEkle", "Sepet"))
+                                        {
+                                            @Html.Hidden("UrunlerID", item.SepetttekiUrun.UrunlerID)
+                                            <button class="btn btn-sm btn-success btn-xs">
+                                                <i class="fa fa-plus"></i>
+
+                                            </button>
+                                        }
+                                    </div>
+                                    
+                                        <div class="col-md-2"><b>@item.SepettekiMiktar</b></div>
+                                   
+
+                                    
+                                        <div class="col-md-3">
+                                            @using (Html.BeginForm("SepettenAzalt", "Sepet"))
+                                            {
+                                                @Html.Hidden("UrunlerID", item.SepetttekiUrun.UrunlerID)
+                                                <button class="btn btn-sm btn-warning btn-xs">
+                                                    <i class="fa fa-minus"></i>
+                                                </button>
+
+                                            }
+                                        </div>
+                                   
+                                
+                                </td>
+
+                                @*<td><input class="form-control" type="text" value="1" /></td>*@
+
+                                <td>@item.SepetttekiUrun.UrunFiyat.Value.ToString("C")</td>
+                                <td>@((item.SepetttekiUrun.UrunFiyat * item.SepettekiMiktar).Value.ToString("C"))</td>
+
+                                <td>
+                                    
+                                        @using (Html.BeginForm("SepettenSil", "Sepet"))
+                                        {
+                                            @Html.Hidden("UrunlerID", item.SepetttekiUrun.UrunlerID)
+                                            <button class="btn btn-sm btn-danger">
+                                                <i class="fa fa-trash"></i>
+                                            </button>
+                                        }
+                                    
+                                </td>
+                            </tr>
+
+                        }
+
+                        @*<tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Toplam</td>
+                            <td class="text-right">255,90 €</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>Shipping</td>
+                            <td class="text-right">6,90 €</td>
+                        </tr>*@
+                        <tr>
+                            
+                            <td colspan="4" class="text-right">
+                            <h4><b style="color:red">Toplam Fiyat:</b></h4>
+                            </td>
+                            <td><strong>@Model.SepetToplamFiyat().ToString("C")</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col mb-2">
+            <div class="row">
+                <div class="col-sm-12  col-md-6">
+                    <button class="btn btn-block btn-primary text-uppercase ">Alışverişe Devam</button>
+                </div>
+                <div class="col-sm-12 col-md-6 text-right">
+                    <button class="btn btn-lg btn-block btn-success text-uppercase">Alışverişi Tamamla</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
