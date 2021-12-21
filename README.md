@@ -1,2 +1,2 @@
 # E-CommerceMVCNTier
-You will find how you can an e-commerce website with this project there are some of lacks but you also can improve this project.
+You will find how you can develop an e-commerce website with this project. There are some of lacks but you also can attribute to this project.
